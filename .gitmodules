@@ -1,0 +1,3 @@
+[submodule "GoBarber_Web"]
+	path = GoBarber_Web
+	url = git@github.com:PetersonFonsec/GoBarber_Web.git
